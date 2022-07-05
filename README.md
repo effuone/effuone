@@ -29,4 +29,5 @@ I'm a high school student from International School of Nur-Sultan, who likes to 
 
 ## :dizzy: My Stats
 [![Effuone's GitHub stats](https://github-readme-stats.vercel.app/api?username=effuone)](https://github.com/anuraghazra/github-readme-stats)
+## :chart: Most used languages(according to github repos)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=effuone)](https://github.com/anuraghazra/github-readme-stats)
