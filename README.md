@@ -15,7 +15,6 @@
 
 💬 Ask me about any suggestions about Web-development roadmap
 
-📫 Get my contacts in the 'Links' section ;)
 ⚡️ Fun fact: I came into programming when I was too lazy to solve math problems in 5th grade, so I wrote my first program that did the calculations for me :D
 
 
