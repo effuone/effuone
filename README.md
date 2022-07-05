@@ -3,10 +3,8 @@
 
 
 ## 🚀 About Me
-I'm a high school student from International School of Nur-Sultan, who likes to code and create useful projects
+:office_worker: I'm a high school student from International School of Nur-Sultan, who likes to code and create useful projects
 
-
-## Other Common Github Profile Sections
 👩‍💻 I'm currently working on "ReVera" IT-organization management
 
 🧠 I'm currently learning advance topics of Node.js and Web3 technologies
