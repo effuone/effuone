@@ -26,8 +26,3 @@ I'm a high school student from International School of Nur-Sultan, who likes to 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/effuone)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alibek-seitov-2b7055243/)
-
-## :dizzy: My Stats
-[![Effuone's GitHub stats](https://github-readme-stats.vercel.app/api?username=effuone)](https://github.com/anuraghazra/github-readme-stats)
-## :chart: Most used languages(according to github repos)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=effuone)](https://github.com/anuraghazra/github-readme-stats)
