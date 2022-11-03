@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-:office_worker: I'm a high school student from International School of Nur-Sultan, who likes to code and create useful projects
+:office_worker: I'm a high school student from International School of Astana, who likes to code and create useful projects
 
 ## 🛠 Skills
 .NET Backend and React.js frontend development. (Sometimes I use Docker to dockerize both server and client sides)
