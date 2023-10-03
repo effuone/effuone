@@ -3,10 +3,10 @@
 
 
 ## 🚀 About Me
-:office_worker: I am from Almaty, Kazakhstan. Recently graduated from International School of Astana. Currently developing CRM-system for ZebraCoffee company
+:office_worker: I am from Almaty, Kazakhstan. Recently graduated from the International School of Astana and currently studying Mathematical and Computational Sciences at Astana IT University. I have a keen interest in .NET API microservices, React frontend development, and databases. 
 
-## 🛠 Tech-stack - Full-Stack:
-.NET, Node.js, Express.js, PostgreSQL, React.js, Next.js, Docker 
+## 🛠 Tech-stack:
+.NET, Node.js & React  
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/effuone)
