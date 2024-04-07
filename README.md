@@ -1,13 +1,13 @@
+### Hi, I am Alibek 👋
 
-# Hi, I'm Alibek! 👋
+#### A math computational student by day ☼ and a full-stack developer by night ☾
 
+Full-Stack Engineer at [Whiteboard AI](https://whtbrd.ai/) and mentor at [NFactorial School](https://www.nfactorial.school/).
 
-## 🚀 About Me
-:office_worker: I am from Almaty, Kazakhstan. Recently graduated from the International School of Astana and currently studying Mathematical and Computational Sciences at Astana IT University. I have a keen interest in .NET API microservices, React frontend development, and databases. 
+- ⚙️ Daily tools: `.js`, `.jsx`, `.sql`, `.ts`, `.py`, `.yml`, `.md`
+- 🌍 Active in **Full-Stack Development** and **EdTech**
+- 💡 Known for GPT wrappers, not-so-smart scrapping techniques, and most simplest full-stack solutions
 
-## 🛠 Tech-stack:
-.NET, Node.js & React  
+Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/alibek-seitov-2b7055243/) for professional networking or potential collaborations.
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/effuone)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alibek-seitov-2b7055243/)
+---
