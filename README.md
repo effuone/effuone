@@ -4,7 +4,7 @@
 
 Full-Stack Engineer at [Whiteboard AI](https://whtbrd.ai/) and mentor at [NFactorial School](https://www.nfactorial.school/).
 
-- ⚙️ Daily tools: `.js`, `.jsx`, `.sql`, `.ts`, `.py`, `.yml`, `.md`
+- ⚙️ Daily tools: `.js`, `.jsx`, `.ts`, `.tsx`, `.sql`, `.py`, `.yml`, `.md`
 - 🌍 Active in **Full-Stack Development** and **EdTech**
 - 💡 Known for GPT wrappers, not-so-smart scrapping techniques, and most simplest full-stack solutions
 
