@@ -2,7 +2,7 @@
 
 #### A math computational student by day ☼ and a full-stack developer by night ☾
 
-Full-Stack Engineer at [Whiteboard AI](https://whtbrd.ai/) and mentor at [NFactorial School](https://www.nfactorial.school/).
+Full-Stack Engineer and mentor at [NFactorial School](https://www.nfactorial.school/).
 
 - ⚙️ Daily tools: `.js`, `.jsx`, `.ts`, `.tsx`, `.sql`, `.py`, `.yml`, `.md`
 - 🌍 Active in **Full-Stack Development** and **EdTech**
