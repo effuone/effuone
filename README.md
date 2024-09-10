@@ -1,13 +1,11 @@
-### Hi, I am Alibek 👋
+### Hi, I’m Alibek 👋
 
-#### A math computational student by day ☼ and a full-stack developer by night ☾
+#### Just an average technocracy enjoyer
 
-Full-Stack Engineer and mentor at [NFactorial School](https://www.nfactorial.school/).
+Software Engineer at nFactorial AI and a mentor at [NFactorial School](https://www.nfactorial.school/).
 
-- ⚙️ Daily tools: `.js`, `.jsx`, `.ts`, `.tsx`, `.sql`, `.py`, `.yml`, `.md`
-- 🌍 Active in **Full-Stack Development** and **EdTech**
-- 💡 Known for GPT wrappers, not-so-smart scrapping techniques, and most simplest full-stack solutions
+- ⚙️ Daily tools: `.js`, `.jsx`, `.ts`, `.tsx`, `.sql`, `.py`, `.yml`, `.md` 
+- 🌍 Passionate about **LLM integration** and **EdTech**.
+- 🏆 Won a few hackathons like "AI Storytellers", "AI for Humanity", "nFactorial AI Cup" and mnore.
 
-Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/alibek-seitov-2b7055243/) for professional networking or potential collaborations.
-
----
+Let’s connect and maybe build something cool. Find me on [LinkedIn](https://www.linkedin.com/in/alibackend)!
