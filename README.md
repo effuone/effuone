@@ -1,11 +1,11 @@
 ### Hi, I’m Alibek 👋
 
-#### Just an average technocracy enjoyer
+Full-stack Software Engineer with a focus on AI-powered products and developer tooling.
+I value fast iteration and meaningful impact through technology.
 
-Software Engineer at nFactorial AI and a mentor at [NFactorial School](https://www.nfactorial.school/).
+* Currently building AI agents and internal tools at **nFactorial AI**
+* Experience with TypeScript, Python, React, FastAPI, PostgreSQL, Redis
+* Interested in LLM integration, data parsing, and efficient product delivery
+* Contributed to hackathon-winning projects and mentored early-career developers
 
-- ⚙️ Daily tools: `.js`, `.jsx`, `.ts`, `.tsx`, `.sql`, `.py`, `.yml`, `.md`  
-- 🌍 Passionate about **LLM integration** and **EdTech**.  
-- 🏆 Won hackathons like "AI Storytellers", "AI for Humanity", "nFactorial AI Cup" and more.
-
-Let’s connect and maybe build something cool. Find me on [LinkedIn](https://www.linkedin.com/in/alibackend)!
+[🌐 Portfolio](https://alibackend.com) • [🔗 LinkedIn](https://linkedin.com/in/alibackend)
